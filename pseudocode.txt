@@ -1,0 +1,12 @@
+BEGIN
+
+INPUT entered_pin
+IF entered_pin is = to correct_pin
+DISPLAY Access granted
+
+ELSE
+Display incorrect pin! try again
+
+ENDIF
+
+END
